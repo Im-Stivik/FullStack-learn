@@ -1,0 +1,19 @@
+{
+  "name": "fullstack-learn",
+  "version": "1.0.0",
+  "description": "for learn full stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Im-Stivik/FullStack-learn.git"
+  },
+  "author": "stivik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Im-Stivik/FullStack-learn/issues"
+  },
+  "homepage": "https://github.com/Im-Stivik/FullStack-learn#readme"
+}
